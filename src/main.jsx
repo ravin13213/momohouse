@@ -3,7 +3,7 @@ import "./index.css";
 import App from "./App.jsx";
 import { BrowserRouter } from "react-router-dom";
 import { Auth0Provider } from "@auth0/auth0-react";
-import { CartProvider } from "./Context/CartProvider.jsx";
+import { CartProvider } from "./context/CartProvider.jsx";
 
 createRoot(document.getElementById("root")).render(
   <BrowserRouter>
