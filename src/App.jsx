@@ -10,11 +10,13 @@ import Home from "./Pages/Home";
 import SignUp from "./Auth/SignUp";
 import Navigation from "./NavBar/Navigation";
 import Cart from "./Pages/Cart";
-import ProductDescription from "./Pages/ProductDescription";
 import Payment from "./Payment/Payment";
 import Success from "./Payment/Success";
 import Failure from "./Payment/Failure";
 import Profile from "./Pages/Profile";
+import ProductDescription from "./Pages/ProductDescription";
+
+
 
 function App() {
   return (
