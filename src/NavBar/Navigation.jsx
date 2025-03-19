@@ -5,7 +5,7 @@ import { FaInstagram } from "react-icons/fa";
 import momoLogo from "../assets/momoLogo.png";
 import { BsCart4 } from "react-icons/bs";
 import { useContext } from "react";
-import { CartContext } from "../Context/CartProvider";
+import { CartContext } from "../context/CartProvider";
 import { useAuth0 } from "@auth0/auth0-react";
 import { FaUserCircle } from "react-icons/fa";
 
