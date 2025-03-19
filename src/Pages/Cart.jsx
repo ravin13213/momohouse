@@ -1,5 +1,5 @@
 import { useContext } from "react";
-import { CartContext } from "../Context/CartProvider";
+import { CartContext } from "../context/CartProvider";
 import { MdDelete } from "react-icons/md";
 import { GoArrowUp } from "react-icons/go";
 import { VscArrowDown } from "react-icons/vsc";
